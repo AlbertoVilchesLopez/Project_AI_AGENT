@@ -32,3 +32,5 @@
 .
 .
 ### steps to run the project
+ streamlit run agent.py
+
