@@ -5,7 +5,7 @@ from fpdf import FPDF
 import sqlite3
 
 # Configura tu API Key de OpenAI de forma segura
-openai.api_key = "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" #os.getenv("OPENAI_API_KEY")
+openai.api_key = "sk....." #os.getenv("OPENAI_API_KEY")
 
 # ------------------- Módulo 1: Diagnóstico de Síntomas -------------------
 class DiagnosticoSintomasTool:
