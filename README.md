@@ -30,15 +30,7 @@ Sanea: When it's urgent and can't wait... but you need answers now.
 
 
 
-## CONCLUSIONS
-.
-.
-.
-.
-.
-.
-.
-.
 ### steps to run the project
- streamlit run agent.py
+1. Add your API KEY from OPENAI
+2. streamlit run agent.py
 
